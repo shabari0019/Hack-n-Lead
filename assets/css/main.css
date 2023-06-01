@@ -8,6 +8,17 @@
 .pad {
 	padding-top:30px; 
 }
+.link:link {
+	color: #e01f5c;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.link:hover {
+	color: #0cf3c9;
+  background-color: transparent;
+  text-decoration: underline;
+}
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
